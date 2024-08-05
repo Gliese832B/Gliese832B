@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Growtopia.<br>Main Programming Language: C++ and Rust<br>Python hater<br>Learning Reverse engineering
+I'm currently working on Growtopia.<br>Main Programming Language: C++ and RustLearning Reverse engineering
 
 
 ## 🌐 Socials:
