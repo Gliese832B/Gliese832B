@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Reverse Engineering.<br>Main Programming Language: C++
+I'm currently working on Reverse Engineering.<br>
 
 
 ## 🌐 Socials:
